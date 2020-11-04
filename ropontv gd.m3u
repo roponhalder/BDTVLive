@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/90196928.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 1)
-http://c1live.com:8081/c1live/starjalsa/chunks.m3u8%7CReferer:http://c1live.com/
+http://c1live.com:8081/c1live/starjalsa/chunks.m3u8|Referer:http://c1live.com/
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/95118637.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 2)
 http://iboxbd.live/player.php?stream=27|tokenUrl:/4|Referer:http://iboxbd.live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/90398703.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 3)
