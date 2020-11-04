@@ -937,8 +937,8 @@ http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.f
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602961760/ei/AO2KX_2cKpC1wgPo8I6YAg/ip/103.134.227.87/id/HRzVQQ25zJw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM8QPZeKuafFqT55bBdj8IY-coePj-5jphShCTuY_hRPAiBFWXrw959qvgGDpuTnFkatMywzR2JoaWIJdmU_gje3og%3D%3D/file/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120975.jpg" group-title="SPORTS", Titash Sports
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120930.png" group-title="SPORTS", Bein Sports 1 HD
-http://88.198.207.99/hls/bein1.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/cannel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120930.png" group-title="SPORTS", Bein Sports 1 HD
+http://sarhantv.xyz:25461/live/sarhan2o2o/sarhan2o2o/1.m3u8|User-Agent:@2020@
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120931.png" group-title="SPORTS", Bein sports 2 HD
 http://116.203.182.40/hls/bein2.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120932.png" group-title="SPORTS", Bein Sports 3 HD
