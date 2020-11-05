@@ -114,7 +114,7 @@ http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120724.png" group-title="Bangla", DD Bangla
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.smil.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120726.jpeg" group-title="Bangla", Deepto Tv HD
-http://c1live.com/tv/bd-deepto.php%7CReferer:http://c1live.com%7CtokenUrl:/4
+http://c1live.com/tv/bd-deepto.php|Referer:http://c1live.com|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120728.jpeg" group-title="Bangla", Maasranga Tv HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424362/71120707.jpg" group-title="Bangla", Time Tv
