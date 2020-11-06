@@ -937,25 +937,25 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602961760/ei/A
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120975.jpg" group-title="SPORTS", Titash Sports
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/cannel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120930.png" group-title="SPORTS", Bein Sports 1 HD
-http://sarhantv.xyz:25461/live/sarhan2o2o/sarhan2o2o/1.m3u8|User-Agent:@2020@
+http://116.203.155.242/hls/bein1.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120931.png" group-title="SPORTS", Bein sports 2 HD
-http://116.203.182.40/hls/bein2.m3u8
+http://116.203.155.242/hls/bein2.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120932.png" group-title="SPORTS", Bein Sports 3 HD
-http://159.69.36.73/hls/bein3.m3u8
+http://116.203.155.242/hls/bein3.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120933.png" group-title="SPORTS", Bein Sports 4 HD
-http://159.69.18.22/hls/bein4.m3u8
+http://116.203.155.242/hls/bein4.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120978.png" group-title="SPORTS", Bein Sports 5 HD
-http://116.203.228.176/hls/bein5.m3u8
+http://116.203.155.242/hls/bein5.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/74662208.png" group-title="SPORTS", Bein Sports 6 HD
-http://116.203.228.176/hls/bein6.m3u8
+http://116.203.155.242/hls/bein6.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/74662250.jpg" group-title="SPORTS", Bein Sports 7 HD
-http://159.69.18.22/hls/bein7.m3u8
+http://116.203.155.242/hls/bein7.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/74662251.png" group-title="SPORTS", Bein Sports 8 HD
-http://159.69.36.73/hls/bein8.m3u8
+http://116.203.155.242/hls/bein8.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/74662532.jpg" group-title="SPORTS", Bein Sports 9 HD
-http://116.203.182.40/hls/bein9.m3u8
+http://116.203.155.242/hls/bein9.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/74662533.png" group-title="SPORTS", Bein sports 10 HD
-http://88.198.207.99/hls/bein10.m3u8
+http://116.203.155.242/hls/bein10.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528129/108708833.jpeg" group-title="SPORTS", Brin Sports 11 HD
 http://dx4.gcdn.co/UKS1757/index.m3u8?checkedbylivefootballevent
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528129/108708834.png" group-title="SPORTS", Bein Sports 12 HD
