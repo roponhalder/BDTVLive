@@ -43,7 +43,7 @@ https://www.bioscopelive.com/en/channel/btv-world|User-Agent:BPlayer|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120656.jpg" group-title="Bangla", BTV Chottogram
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120657.jpg" group-title="Bangla", Star Jalsha SD
-http://103.205.133.50/hls/chsj.m3u8
+http://c1live.com:80/tv/kb-starjalsha.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120658.jpg" group-title="Bangla", Star Jalsha HD
 http://c1live.com:8081/c1live/starjalsa/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528123/97083015.jpeg" group-title="Bangla", Star Jalsha HD (Backup)
@@ -55,17 +55,17 @@ http://ccntv.anytv.live:8080/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120729.jpg" group-title="Bangla", Jalsha Movies HD
 http://iboxbd.live/player.php?stream=31|tokenUrl:/4|Referer:http://iboxbd.live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120660.jpg" group-title="Bangla", Jalsha Movies HD (Backup)
-http://c1live.com:8081/c1live/jalshamovies/chunks.m3u8
+http://c1live.com:80/tv/kb-jalshamovies.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120661.jpg" group-title="Bangla", Zee Bangla SD
-http://103.205.133.50/hls/zeebangla.m3u8
+http://c1live.com:80/tv/kb-zeebangla.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120662.jpg" group-title="Bangla", Zee Bangla HD
 http://ctgiptv.kitv.live:1935/live/test/test1/26.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/73604404.png" group-title="Bangla", Zee Bangla HD (Backup)
-http://c1live.com:8081/c1live/zeebangla/chunks.m3u8
+http://c1live.com:80/tv/kb-zeebangla.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120663.jpg" group-title="Bangla", Zee Bangla Cinema
-http://c1live.com:8081/c1live/zeebanglacinema/chunks.m3u8
+http://c1live.com:80/tv/kb-zeebanglacinema.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71774855.png" group-title="Bangla", Sony Aat
-http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+http://c1live.com:80/tv/kb-sonyaath.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71774855.png" group-title="Bangla", Sony Aat (Backup)
 http://c1live.com:8081/c1live/sonyaath/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120665.jpg" group-title="Bangla", ATN Bangla
@@ -105,7 +105,7 @@ https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.smil.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120718.jpeg" group-title="Bangla", Bangla tv HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120721.jpg" group-title="Bangla", Colors Bangla SD
-http://103.205.133.50/hls/etvbangla.m3u8
+http://c1live.com:80/tv/kb-colorsbangla.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120722.png" group-title="Bangla", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/78067119.png" group-title="Bangla", Enterr10 Bangla
@@ -117,7 +117,7 @@ http://c1live.com/tv/bd-deepto.php|Referer:http://c1live.com|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120728.jpeg" group-title="Bangla", Maasranga Tv HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424362/71120707.jpg" group-title="Bangla", Time Tv
-http://c1live.com:8081/c1live/timestv/playlist.m3u8
+http://c1live.com:80/tv/bd-timestv.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120731.jpeg" group-title="Bangla", Mohona Tv
 https://www.bioscopelive.com/en/channel/mohona-tv|User-Agent:BPlayer|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120732.jpeg" group-title="Bangla", Movi Bangla
@@ -585,11 +585,11 @@ http://c1live.com:8081/c1live/bein-laliga/chunks.m3u8
 #EXTINF: -1 group-title="BDIX Channel (Some isp not supported)", Zee Anmol
 http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/158.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120768.jpg" group-title="India", And Tv SD
-http://103.205.133.50/hls/andtv.m3u8
+http://c1live.com:80/tv/in-andtv.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120769.jpg" group-title="India", And Tv HD
 http://c1live.com:8081/c1live/andtv/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120770.png" group-title="India", Colors SD
-http://103.205.133.50/hls/chc.m3u8
+http://c1live.com:80/tv/in-colors.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120771.png" group-title="India", Colors HD
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120771.png" group-title="India", Colors HD (Backup)
@@ -597,7 +597,7 @@ http://c1live.com:8081/c1live/colors/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120774.jpg" group-title="India", Sony Tv SD
 http://103.205.133.50/hls/chs.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120773.jpg" group-title="India", Sony Tv HD
-http://c1live.com:8081/c1live/sony/chunks.m3u8
+http://c1live.com:80/tv/in-sony.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/87931947.jpg" group-title="India", Sony Tv HD (Backup)
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120772.png" group-title="India", Sony Sab SD
@@ -607,17 +607,17 @@ http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120776.jpg" group-title="India", Sony Pal SD
 http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120777.jpg" group-title="India", Star Bharat SD
-http://c1live.com:8081/c1live/lifeok/chunks.m3u8
+http://c1live.com:80/tv/in-lifeok.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120778.jpg" group-title="India", Star Bharat HD
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120779.jpg" group-title="India", Star Plus SD
-http://103.205.133.50/hls/chsp.m3u8
+http://c1live.com:80/tv/in-starplus.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120780.jpg" group-title="India", Star Plus HD
 http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/152.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528124/98145451.jpg" group-title="India", Star Plus HD(Backup)
 http://dx3.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120781.jpg" group-title="India", Zee Tv SD
-http://103.205.133.50/hls/zeetv.m3u8
+http://c1live.com:80/tv/in-zeetv.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120782.jpg" group-title="India", Zee TV HD
 http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120785.png" group-title="India", DD National HD
@@ -625,7 +625,7 @@ https://mhdtvworld.live/zee5/getplay.php?c=out/v1/061be0ece7a849939ac2d9031f8fc5
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120788.jpg" group-title="India", Miniplex HD
 http://dx3.gcdn.co/hindi-MINIPLEXHD/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120789.jpg" group-title="India", B4u Movise
-http://c1live.com:8081/c1live/b4umovies/chunks.m3u8
+http://c1live.com:80/tv/in-b4umovies.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120790.png" group-title="India", B4u Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120791.jpg" group-title="India", And Pictures SD
@@ -641,7 +641,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_c
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120796.jpg" group-title="India", Sony Max SD
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.smil.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120797.jpg" group-title="India", Sony Max HD
-http://c1live.com:8081/c1live/sonymax/chunks.m3u8
+http://c1live.com:80/tv/in-sonymax.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/87963218.jpg" group-title="India", Sony Max Hd (Backup)
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120798.png" group-title="India", Sony Max 2 SD
@@ -649,7 +649,7 @@ https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.smil.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120819.jpg" group-title="India", Sony Wah
 https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.smil.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120799.png" group-title="India", Star Gold HD
-http://c1live.com:8081/c1live/stargold/chunks.m3u8
+http://c1live.com:80/tv/in-stargold.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120799.png" group-title="India", Star Gold HD (Backup)
 http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120800.jpg" group-title="India", Star Gold International
@@ -659,7 +659,7 @@ https://mhdtvworld.live/zee5/getplay.php?c=classic|tokenUrl:/4|Referer:https://m
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120803.jpg" group-title="India", Zee Cinema SD
 http://103.205.133.21/hls/zeecinema.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120804.jpg" group-title="India", Zee Cinema HD
-http://c1live.com:8081/c1live/zeecinema/chunks.m3u8
+http://c1live.com:80/tv/in-zeecinema.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120805.png" group-title="India", zee Action
 https://mhdtvworld.live/zee5/getplay.php?c=action|tokenUrl:/4|Referer:https://mhdtvworld.live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120809.png" group-title="India", Enterr10
@@ -667,7 +667,7 @@ https://load.airtelxstream.in/enterr10/smil:common.smil/chunklist.smil.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120811.jpg" group-title="India", ABZY
 https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120812.jpg" group-title="India", Colors Cineplex HD
-http://c1live.com:8081/c1live/rishteycineplex/chunks.m3u8
+http://c1live.com:80/tv/in-rishtycineplex.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120813.jpg" group-title="India", Manoranjan Tv
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120817.png" group-title="India", Mtv
@@ -725,8 +725,8 @@ http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/151.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424357/71120750.jpg" group-title="ENGLISH", Star Movies Select HD
 http://imnotdead.live:8080/live/XjTRZnx2Pg/fBDqAeSAAZ/87352.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424357/81828694.jpg" group-title="ENGLISH", Star Movies Select HD (Backup)
-http://c1live.com:8081/c1live/starmovies/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424357/75879580.png" group-title="ENGLISH", Star World HD
+http://c1live.com:80/tv/en-starmovies.php|Referer: http://c1live.com/|tokenUrl:/4
+#EXTINF: -1 tvg-logo="" group-title="ENGLISH", Star World HD
 http://imnotdead.live:8080/live/XjTRZnx2Pg/fBDqAeSAAZ/87350.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424357/71120749.png" group-title="ENGLISH", Star World Premiere HD
 http://195.181.172.83:2200/R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/tracks-v1a1/mono.m3u8?token=
@@ -861,7 +861,7 @@ http://mathanosto.top/tv/player.php?stream=35|tokenUrl:/4|Referer:http://mathano
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424358/71120851.png" group-title="Documentary", National Geographic Hindi HD
 http://mhiptv.com:8888/live/ovavBdmik8/7G4Mi9YRdk/19393.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424358/71120851.png" group-title="Documentary", National Geographic Bangla HD
-http://c1live.com:8081/c1live/natgeo/chunks.m3u8
+http://c1live.com:80/tv/en-natgeo.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424358/71774815.png" group-title="Documentary", National Geographic People
 http://mhiptv.com:8888/live/ovavBdmik8/7G4Mi9YRdk/19394.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424358/71774816.png" group-title="Documentary", Nat Geo Wild
@@ -899,7 +899,7 @@ http://iboxbd.live/player.php?stream=44|tokenUrl:/4|Referer:http://iboxbd.live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424359/71120863.png" group-title="Kids", Cartoon Network HD
 http://mathanosto.top/tv/player.php?stream=79|tokenUrl:/4|Referer:http://mathanosto.top/tv/
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424359/74662079.png" group-title="Kids", Cartoon Network Hindi
-http://45.249.187.238:8081/hls/new14.m3u8
+http://c1live.com:80/tv/en-cn.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424359/74662079.png" group-title="Kids", Cartoon Network Hindi (Backup)
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_cartoon_networkPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424359/71120864.png" group-title="Kids", Sonic Bangla
@@ -977,7 +977,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120941.png" group-title="SPORTS", Ten Sports
 http://c1live.com:8081/c1live/osn-cricket/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/88941118.png" group-title="SPORTS", Pk Sports HD
-http://c1live.com:8081/c1live/espn/playlist.m3u8
+http://c1live.com:80/tv/sp-geosuper.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660523/113503536.jpg" group-title="SPORTS", Tyc Sports Argentina
 http://akamaizedx.com:80/live/101020/101020/10045380.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120942.jpg" group-title="SPORTS", PTv Sports
@@ -1029,19 +1029,19 @@ http://103.205.133.50/hls/sonysix.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120970.png" group-title="SPORTS", Sony Six HD
 http://c1live.com:8081/c1live/sonysix/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71365856.jpg" group-title="SPORTS", Sony Ten 1 SD
-http://c1live.com:8081/c1live/ten1/playlist.m3u8
+http://c1live.com:80/tv/sp-ten1.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120971.png" group-title="SPORTS", Sony Ten 1 HD
 https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.smil.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71365857.png" group-title="SPORTS", Sony Ten 2 SD
-http://c1live.com:8081/c1live/ten2/playlist.m3u8
+http://c1live.com:80/tv/sp-trn2.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120972.png" group-title="SPORTS", Sony Ten 2 HD
 http://103.205.133.20/hls/ten2.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71365858.png" group-title="SPORTS", Sony Ten 3 SD
-http://c1live.com:8081/c1live/ten3/playlist.m3u8
+http://c1live.com:80/tv/sp-trn3.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120973.png" group-title="SPORTS", Sony Ten 3 HD
 https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.smil.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120976.png" group-title="SPORTS", Willow Ceicket HD
-http://c1live.com:8081/c1live/willow/chunks.m3u8
+http://c1live.com:80/tv/sp-willow.php|Referer: http://c1live.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71365863.png" group-title="SPORTS", Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?260299401.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71774820.jpg" group-title="SPORTS", Fox Sports 502 HD
