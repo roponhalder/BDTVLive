@@ -19,17 +19,17 @@ http://103.102.136.106:8080/cmcltv/tcm_live2.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/95990198.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 10)
 http://c1live.com:8081/c1live/skycricket/chunks.m3u8?nimblesessionid=188008
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/108409695.jpg" group-title="BD Tv Live Sports", Women's BBL T20 League
-http://globalbanglatv.com/jago-bangla-tv/|User-Agent:Bplayer|tokenUrl:/4
+https://mhdtvworld.live:443/voot/colorscinehd.php|Referer:mhdtvworld.live|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/111911464.jpg" group-title="BD Tv Live Sports", Live Football Match
-http://globalbanglatv.com:80/sristy-tv/|Referer:http://globalbanglatv.com/jago-bangla-tv/|tokenUrl:/4
+http://globalbanglatv.com:80/sristy-tv/|Referer:http://globalbanglatv.com/jago-bangla-tv
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/112109168.jpg" group-title="BD Tv Live Sports", Live Football Match
-https://jagobanglatv-hls.telelivebd.com:443/jagobanglatv/jagobanglatv.m3u8
+https://jagobanglatv-hls.telelivebd.com:443/jagobanglatv/jagobanglatv.m3u8|Referer:http://globalbanglatv.com/jago-bangla-tv/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660516/114378125.jpg" group-title="BD Tv Live Sports", Live Football Match
-https://jagobanglatv-hls.telelivebd.com:443/jagobanglatv/jagobanglatv.m3u8|Referer:http://globalbanglatv.com/
+https://jagobanglatv-hls.telelivebd.com:443/jagobanglatv/jagobanglatv.m3u8|Referer:http://globalbanglatv.com/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660516/114378127.jpg" group-title="BD Tv Live Sports", Live Football Match
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master.m3u8&tvauth=mtbXRNVFl3TkRVNU9ETTBNQT09Cjo2YjdmNzRjM2M5NDNlYzJlNjQwNmE4NTYwZDc3ZGFkZg==&channelid=YN4OGVUVFZlYjUzNWI0MjE5MDQ5NDVjLWluLWFuZHJvaWQtZmZmZmZmZmYtZjk5NS0wNzM2LWZmZmYtZmZmZmVmMDVhYzRhbi
+https://mhdtvworld.live/stream/colors-cineplex-hd|Referer:https://mhdtvworld.live/tv-channels/hindi-movies/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660516/114378580.jpg" group-title="BD Tv Live Sports", Live Football Match
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master.m3u8?hdnea=exp=1603914629~acl=/*~hmac=c62483005f17605ac185797d0c15541a06d1b0dba2997a33ce63ebe15173bb0f
+https://mhdtvworld.live/stream/colors-cineplex-hd|Referer:https://mhdtvworld.live/|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660516/114378580.jpg" group-title="BD Tv Live Sports", WWE Live Match
 http://tv.bdtv.xyz:8080/vZwThe0JFU9OxZfLeH9B6CW/sonypix/chunks.m3u8%7CReferer:http://channel.bdiptv.pw/
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6668aad0-08b8-11eb-bc19-a11acb1eae0d/660517/118783538.jpg" group-title="Bangla", Ropon TV
