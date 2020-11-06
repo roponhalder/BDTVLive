@@ -726,7 +726,7 @@ http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/151.m3u8
 http://imnotdead.live:8080/live/XjTRZnx2Pg/fBDqAeSAAZ/87352.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424357/81828694.jpg" group-title="ENGLISH", Star Movies Select HD (Backup)
 http://c1live.com:80/tv/en-starmovies.php|Referer: http://c1live.com/|tokenUrl:/4
-#EXTINF: -1 tvg-logo="" group-title="ENGLISH", Star World HD
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424357/75879580.png " group-title="ENGLISH", Star World HD
 http://imnotdead.live:8080/live/XjTRZnx2Pg/fBDqAeSAAZ/87350.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424357/71120749.png" group-title="ENGLISH", Star World Premiere HD
 http://195.181.172.83:2200/R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/tracks-v1a1/mono.m3u8?token=
