@@ -13,13 +13,13 @@ http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 rage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/90388436.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 7)
 http://103.132.180.245:8080/2/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/95812128.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 8)
-http://zer0live.hjkm.info:11991/neptune/b4umusic/2703.ts|Referer:https://mhdtvworld.live
+https://edge4.bioscopelive.com:443/hls/anonymous/plRCWT7mt88ptwM1jzzdqA/1604819024/sangeet_bangla_hi/index.m3u8|User-Agent:BPlayer
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/95990199.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 9)
 http://103.102.136.106:8080/cmcltv/tcm_live2.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/95990198.jpg" group-title="BD Tv Live Sports", IPL Live 2020 (Link 10)
 http://zer0live.hjkm.info:11991/neptune/b4umusic/2703.ts|Referer:https://mhdtvworld.live|tokenUrl:/4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/108409695.jpg" group-title="BD Tv Live Sports", Women's BBL T20 League
-https://mhdtvworld.live:443/voot/colorscinehd.php|Referer:mhdtvworld.live|tokenUrl:/4
+https://edge4.bioscopelive.com:443/hls/anonymous/plRCWT7mt88ptwM1jzzdqA/1604819024/sangeet_bangla_hi/index.m3u8|User-Agent:BPlayer|tokenUrl:4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/111911464.jpg" group-title="BD Tv Live Sports", Live Football Match
 http://globalbanglatv.com:80/sristy-tv/|Referer:http://globalbanglatv.com/jago-bangla-tv
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/678f7010-e451-11ea-bde2-b589418573cf/528122/112109168.jpg" group-title="BD Tv Live Sports", Live Football Match
